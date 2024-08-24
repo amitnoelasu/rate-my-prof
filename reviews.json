@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "John Smith",
+        "review": "Great professor, explains concepts clearly and is very approachable.",
+        "subject": "Math",
+        "stars": 5
+      },
+      {
+        "professor": "Susan Johnson",
+        "review": "Engaging lectures and always willing to help students.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Michael Brown",
+        "review": "Makes difficult topics easy to understand.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Emily Davis",
+        "review": "Her classes are well-organized and informative.",
+        "subject": "History",
+        "stars": 4
+      },
+      {
+        "professor": "Christopher Garcia",
+        "review": "Enthusiastic about the subject and very knowledgeable.",
+        "subject": "Chemistry",
+        "stars": 5
+      },
+      {
+        "professor": "Jessica Martinez",
+        "review": "Always ready to answer questions and provide feedback.",
+        "subject": "Biology",
+        "stars": 4
+      },
+      {
+        "professor": "David Wilson",
+        "review": "His teaching style is engaging and easy to follow.",
+        "subject": "Economics",
+        "stars": 5
+      },
+      {
+        "professor": "Sarah Lee",
+        "review": "Provides real-world examples that make the material relatable.",
+        "subject": "Marketing",
+        "stars": 4
+      },
+      {
+        "professor": "James Anderson",
+        "review": "Very patient and always willing to help students.",
+        "subject": "Philosophy",
+        "stars": 5
+      },
+      {
+        "professor": "Megan White",
+        "review": "Keeps the class interesting and interactive.",
+        "subject": "Psychology",
+        "stars": 4
+      },
+      {
+        "professor": "Robert Hall",
+        "review": "Detailed explanations and always available for office hours.",
+        "subject": "Engineering",
+        "stars": 5
+      },
+      {
+        "professor": "Patricia Young",
+        "review": "Very supportive and encourages class participation.",
+        "subject": "Sociology",
+        "stars": 4
+      },
+      {
+        "professor": "Kevin King",
+        "review": "He makes learning fun and accessible.",
+        "subject": "Art",
+        "stars": 5
+      },
+      {
+        "professor": "Karen Clark",
+        "review": "Very knowledgeable and always prepared for lectures.",
+        "subject": "Law",
+        "stars": 4
+      },
+      {
+        "professor": "Thomas Lewis",
+        "review": "Challenges students to think critically and deeply.",
+        "subject": "Political Science",
+        "stars": 5
+      },
+      {
+        "professor": "Michelle Walker",
+        "review": "Her passion for teaching is evident in every class.",
+        "subject": "Literature",
+        "stars": 4
+      },
+      {
+        "professor": "Charles Robinson",
+        "review": "Uses a lot of practical examples to explain complex theories.",
+        "subject": "Statistics",
+        "stars": 5
+      },
+      {
+        "professor": "Laura Harris",
+        "review": "Her teaching methods are innovative and effective.",
+        "subject": "Education",
+        "stars": 4
+      },
+      {
+        "professor": "Matthew Perez",
+        "review": "Great at making connections between course material and real life.",
+        "subject": "Geography",
+        "stars": 5
+      },
+      {
+        "professor": "Sophia Thompson",
+        "review": "Encourages creativity and independent thinking.",
+        "subject": "Creative Writing",
+        "stars": 4
+      }
+    ]
+  }
+  
